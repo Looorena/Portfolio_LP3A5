@@ -3,10 +3,10 @@ Esse repositório é um portfólios nos quais deverão ser carregados os código
 
 # Exercicios Proposto - LP3A5
 
-[Exercicio 01](): Problema do Produtor Consumidor
+[Exercicio 02](): Problema do Produtor Consumidor
 
-[Exercicio 02](): Programação Concorrente
+[Exercicio 03](): Programação Concorrente
 
-[Exercicio 03](): Programação Funcional
+[Exercicio 04](): Programação Funcional
 
-[Exercicio 04](): Optional e Exceptions
+[Exercicio 05](): Optional e Exceptions
