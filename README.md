@@ -3,13 +3,11 @@ Esse repositório é um portfólios nos quais deverão ser carregados os código
 
 # Exercicios Proposto - LP3A5
 
-[Exercicio 02](): Problema do Produtor Consumidor
-
-[Exercicio 03](): Programação Concorrente
-
-[Exercicio 04](): Programação Funcional
-
-[Exercicio 05](): Optional e Exceptions
+- [Problema do Produtor Consumidor]()
+- [Programação Concorrente] ()
+- [Programação Funcional] ()
+- [Optional e Exceptions] ()
 
 # Autores:
-Lorena M Bezerra & Davi Henrique Silva de Oliveira
+Lorena M Bezerra
+Davi Henrique Silva de Oliveira
