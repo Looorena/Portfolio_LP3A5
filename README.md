@@ -13,7 +13,10 @@ Esse repositório é um portfólios nos quais deverão ser carregados os código
 
 - [Programação Funcional]()
 
-- [Optional e Exceptions]()
+- [Optional]()
+
+- [Exceptions]()
+
 
 # Autores:
 Lorena M Bezerra
