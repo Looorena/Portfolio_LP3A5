@@ -13,10 +13,7 @@ Esse repositório é um portfólios nos quais deverão ser carregados os código
 
 - [Programação Funcional](https://github.com/Looorena/Portfolio_LP3A5/tree/main/Portfolio_LP3A5/Atividade%204/src/Atividade4)
 
-- [Optional]()
-
-- [Exceptions]()
-
+- [Optional](https://github.com/Looorena/Portfolio_LP3A5/blob/main/Portfolio_LP3A5/Atividade%205/src/Atividade5/Atividade_5.java)
 
 # Autores:
 Lorena M Bezerra
